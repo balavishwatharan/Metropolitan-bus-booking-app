@@ -1,0 +1,10 @@
+Online Bus Booking
+Date of Journey:10/12/24
+===================
+    CHENNAI
+       TO      
+    MADURAI
+No.of Passengers : 5
+--------------------
+Total      :700
+--------------------
